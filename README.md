@@ -20,17 +20,17 @@ The program consists of the following key classes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sumitgirwal/AdvancedCricketTournament
+git clone https://github.com/tibrewalaman/CRICKET_TORUNAMENT_ASSIGEMENT
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd AdvancedCricketTournament
+cd CRICKET_TORUNAMENT_ASSIGEMENT
 ```
 
 3. Run the `main.py` file to start the simulation:
 ```bash
-python main.py
+python advance_cricket_match.py
 ```
 
 4. Follow the instructions and prompts to run the cricket tournament simulation.
