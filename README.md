@@ -1,7 +1,7 @@
 # Advanced Cricket Tournament Simulation
 
 This is a  Python program that simulates a cricket tournament involving various teams with an advanced level of detail.
-Demo : 
+For Demo download video1685980816.mp4 in the repository 
 
 ## Program Overview
 
