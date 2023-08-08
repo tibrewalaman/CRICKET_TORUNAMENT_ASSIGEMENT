@@ -1,4 +1,4 @@
-# Advanced Cricket Tournament Simulation
+# Cricket Tournament Simulation
 
 This is a  Python program that simulates a cricket tournament involving various teams with an advanced level of detail.
 
