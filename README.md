@@ -28,7 +28,7 @@ git clone https://github.com/tibrewalaman/CRICKET_TORUNAMENT_ASSIGEMENT
 cd CRICKET_TORUNAMENT_ASSIGEMENT
 ```
 
-3. Run the `main.py` file to start the simulation:
+3. Run the `advance_cricket_match.py` file to start the simulation:
 ```bash
 python advance_cricket_match.py
 ```
